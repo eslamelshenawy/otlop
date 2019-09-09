@@ -1,0 +1,410 @@
+
+.pull-left {
+    float: right !important;
+}
+.pull-right {
+    float: left !important;
+}
+
+header {
+    direction: rtl;
+}
+
+nav > div > ul > li,
+nav > div > ul,
+nav,
+.logo {
+    float: right;
+}
+
+nav>div>ul>li {
+    margin-left: 10px;
+    margin-right: 0 !important;
+    padding: 30px 0px 30px 10px !important;
+}
+
+nav > div > ul > li:before {
+    right: auto;
+    left: 0;
+}
+
+.menu-sec>a,
+.cart_h {
+    float: left !important;
+}
+
+.cart_down {
+    right: auto;
+    left: 0;
+    text-align: right;
+}
+
+.cart_down li img {
+    float: right !important;
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.cart_down li i.fa-times {
+    right: auto;
+    left: 10px;
+}
+
+.price {
+    float: right;
+}
+
+
+.slider_home {
+    direction: rtl;
+    float: right;
+}
+
+.page_search_result .row > div,
+.page_restaurant .row > div,
+.page_restau_details .page_restaurant .row > div,
+.page_terms .terms_content .row > div,
+.page_coupon .row > div,
+footer .row > div,
+.sec_app .row > div,
+.sec_blog .row > div,
+.top_restaurant .row > div,
+.sec_about .row > div,
+.sec_services .row > div,
+.slider_home form.restaurant-search-form .row > div {
+    float: right;
+    direction: rtl;
+}
+
+.food-featured-post-info {
+    padding-left: 0;
+    padding-right: 40px;
+}
+
+.get_in_touch ul li i,
+.post-date,
+.news-btns {
+    left: auto;
+    right: 0;
+}
+.news-box .news-btns a.read-more {
+    left: auto;
+    right: -100px;
+}
+.news-box:hover .news-btns a.read-more {
+    left: auto;
+    right: 0;
+}
+.news-box .news-btns a.read-more,
+.post-date {
+    float: right;
+    clear: left;
+}
+
+.news-thumb {
+    float: right;
+}
+
+.get_in_touch ul li {
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+
+.widget ul li a:before {
+    content: unset;
+}
+.breadcrumb > li.breadcrumb-item + li.breadcrumb-item:before {
+    content: "/\00a0";
+}
+.page_about .about_content,
+.bottom-bar {
+    direction: rtl;
+}
+
+.breadcrumb {
+    direction: rtl;
+    float: right;
+}
+
+.post-detail-date,
+.blog-detail-wrapper {
+    float: right;
+    direction: rtl;
+}
+
+blockquote {
+    border-right: 5px solid #eee;
+    border-left-color: transparent;
+    border-right-color: #ff8b1e;
+    border-left-width: 0;
+    border-right-width: 3px;
+}
+
+
+.page_career {
+    direction: rtl;
+}
+
+section {
+    float: right;
+}
+
+.file_upload_style:after {
+    left: auto;
+    right: 15px;
+}
+
+.file_upload_style:before {
+    right: auto;
+    left: 15px;
+}
+
+.page_checkout {
+    direction: rtl;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    vertical-align: middle;
+    text-align: right;
+    direction: rtl;
+}
+
+.page_checkout .radio-box [type="radio"]:checked, .page_checkout .radio-box [type="radio"]:not(:checked) {
+    left: auto !important;
+    right: -9999px !important;
+}
+.radio-box [type="radio"]:checked + label:before, .radio-box [type="radio"]:not(:checked) + label:before {
+    left: auto !important;
+    right: 0 !important;
+}
+
+.radio-box [type="radio"]:checked + label:after, .radio-box [type="radio"]:not(:checked) + label:after {
+    left: auto !important;
+    right: 3px !important;
+}
+.radio-box [type="radio"]:checked + label, .radio-box [type="radio"]:not(:checked) + label {
+    padding-left: 0;
+    padding-right: 25px;
+}
+
+.sec_contact {
+    direction: rtl;
+}
+
+.nav-tabs>li {
+    float: right;
+}
+
+.page_dashboard {
+    direction: rtl;
+}
+.page_dashboard .dashboard-tabs-wrapper .row > div {
+    float: right;
+}
+
+.profile-sidebar-inner > ul > li {
+    float: right;
+}
+
+.profile-sidebar-inner > ul > li a {
+    float: right;
+    padding: 0 25px 0 0;
+}
+
+.profile-sidebar-inner > ul > li a:before {
+    right: auto;
+    left: 0;
+}
+
+.profile-sidebar-inner > ul > li a i {
+    right: 0;
+    left: auto;
+    margin-right: 0;
+    margin-left: 8px;
+}
+.profile-sidebar-inner > ul > li a:before {
+    content: "\f104";
+}
+
+.order-info > a {
+    float: left;
+}
+.order-info {
+    padding-left: 0;
+    padding-right: 30px;
+}
+.order-info > span.processing, .order-info > span.completed {
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+
+.nav_left_accordion>li>a i {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+
+.fa-chevron-right:before {
+    content: "\f053";
+}
+
+.page_terms .terms_content .items>.item h3 i {
+    float: left;
+}
+
+
+.page_restau_details,
+.login_page {
+    direction: rtl;
+}
+.sign-form a.recover-btn {
+    float: left;
+}
+
+
+.featured-restaurant-info {
+    padding-left: 0;
+    padding-right: 25px;
+}
+
+.ml-3, .mx-3 {
+    margin-left: 0 !important;
+    margin-right: 1rem !important;
+}
+
+
+
+.sec_details_plate .row > div {
+    float: right;
+}
+.sec_details_plate .aside_food {
+    direction: rtl;
+}
+
+.page_restau_details,
+.modal_register_users,
+.reg_success,
+.page_terms,
+.restaurant-detail-title {
+    direction: rtl;
+}
+
+.show_pass {
+    right: auto;
+    left: 25px;
+}
+
+.view_rating_reviews .rating:not(:last-child) {
+    border-right: 0px solid #CCC;
+    border-left: 1px solid #CCC;
+}
+.rating p {
+    display: block;
+}
+
+
+.ml-4, .mx-4 {
+    margin-left: 0 !important;
+    margin-right: 1.5rem !important;
+}
+
+
+.page_details {
+    direction: rtl;
+}
+.page_details .row .restaurant-detail-tabs .row > div {
+    float: right;
+    direction: rtl;
+}
+
+.nav_left_accordion {
+    padding: 0;
+}
+
+.restaurant-detail-title img {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.qty_order span.name_order,
+.number_pl,
+.restaurant-detail-tabs > ul > li {
+    float: right;
+}
+
+.mr-2, .mx-2 {
+    margin-right: 0 !important;
+    margin-left: .5rem !important;
+}
+.menu_tab_t .accordion_categories div.desc_cat .sec_add_cart {
+    text-align: left;
+}
+
+.qty_order span.name_order {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.page_search_result .order-inner form .btn_search_filter {
+    right: auto;
+    left: 0;
+}
+
+.check-box [type="checkbox"]:checked + label, .check-box [type="checkbox"]:not(:checked) + label {
+    padding-left: 0;
+    padding-right: 25px;
+}
+.check-box [type="checkbox"]:checked+label:before, .check-box [type="checkbox"]:not(:checked)+label:before {
+    left: auto;
+    right: -5px;
+}
+.check-box [type="checkbox"]:checked+label:after, .check-box [type="checkbox"]:not(:checked)+label:after {
+    left: auto;
+    right: -5px;
+}
+.dish-ingredients .radio-box label i,
+.dish-ingredients .check-box label i {
+    float: left;
+}
+.page_search_result .rating ul,
+.rating .navbar-nav>li {
+    float: right;
+    padding: 0;
+}
+
+.mr-3, .mx-3 {
+    margin-right: 0 !important;
+    margin-left: 1rem !important;
+}
+ul {
+    padding: 0;
+}
+
+.wallet_sec_1و
+.form_wallet_pay,
+.page_topChef,
+.sec_search_cook,
+.sitemap_content {
+    direction: rtl;
+}
+
+.sec_plates .row > div,
+.page_topChef .sec_plates .item_plates .info_plate i {
+    float: right;
+}
+
+.form_wallet_pay {
+    text-align: right;
+}
+
+.page_wallet .wallet_sec_1 a i {
+    position: absolute;
+    top: 12px;
+    right: auto;
+    left: 10px;
+}
+
+

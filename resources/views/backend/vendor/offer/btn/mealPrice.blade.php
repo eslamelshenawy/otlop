@@ -1,0 +1,1 @@
+<td>{!! \App\MenuDetails::find($menu_details_id)->price !!} S.R</td>

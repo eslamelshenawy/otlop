@@ -1,0 +1,1 @@
+{!! \App\State::find($state_id)->translate(App::getLocale())->name !!}

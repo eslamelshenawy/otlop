@@ -1,0 +1,1 @@
+{!! date('d-m-Y',strtotime($due_date)) .' '.date('h:m A',strtotime($due_date)) !!}

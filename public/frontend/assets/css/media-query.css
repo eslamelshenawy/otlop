@@ -1,0 +1,297 @@
+@media (max-width:1200px) {}
+
+@media (max-width:1024px) {}
+
+@media (max-width: 991px) {
+    .responsive-logomenu>span {
+        color: #FFF;
+    }
+
+    .bread-crumbs-wrapper {
+        margin-top: 0;
+    }
+
+    .breadcrumb {
+        padding: 7px 0;
+    }
+
+    .page_search_result .order-wrapper {
+        max-width: 100% !important;
+    }
+
+    .fixed_after_scrolling {
+        position: static !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    .featured-restaurant-box .featured-restaurant-info {
+        width: 60%;
+    }
+
+    .page_search_result .featured-restaurant-box.style3 .featured-restaurant-thumb>a img {
+        width: 80px;
+        height: 90px;
+    }
+
+    .sign-popup-btn,
+    .log-popup-btn {
+        padding: 10px;
+        margin: auto;
+        margin-right: 10px;
+        width: 100px;
+        display: inline-block;
+        margin-bottom: 10px;
+        text-align: center;
+        color: #FFF;
+    }
+
+
+    .view_rating_reviews .rating {
+        border-right: 0;
+        border-bottom: 1px solid #CCC;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .is_stuck {
+        position: static !important;
+    }
+
+    .is_stuck+div {
+        height: auto;
+        width: auto;
+        display: none !important;
+    }
+
+    .accordion_categories {
+        margin: 50px auto;
+    }
+
+    .btn_more_comments {
+        margin-bottom: 50px;
+    }
+
+
+
+    .responsive-header div.dropdown {
+        color: #FFF;
+        margin: auto;
+        margin-bottom: 30px;
+        width: auto;
+        position: absolute;
+        height: auto;
+        text-align: left;
+        float: none !important;
+        top: 15px;
+        left: 30px;
+    }
+
+    .responsive-header a.account {
+        color: #FFF;
+    }
+
+}
+
+@media (max-width:768px) {
+    .sec_about .food-featured-post-thumb img {
+        height: 300px;
+    }
+
+    .top_restaurant .popular-dish-thumb>a img {
+        height: 280px;
+    }
+
+
+    .responsive-logomenu .logo img {
+        max-width: 150px !important;
+    }
+
+    .sec_services .block .step-box img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .food-featured-post {
+        text-align: left;
+    }
+
+    .sec_app .app-download-btns>a img {
+        width: 200px;
+        height: 65px;
+    }
+
+    .slider_home form.restaurant-search-form h4 {
+        font-size: 1.5rem;
+    }
+
+    .featured-restaurant-box .featured-restaurant-info {
+        width: 75%;
+    }
+
+    .page_search_result .rating ul {
+        margin-left: 10px;
+    }
+
+    .page_search_result .rating ul li {
+        display: inline-block;
+    }
+
+    .view-menu-liks {
+        width: 120px;
+        margin: auto;
+        display: block;
+        margin-top: 20px;
+    }
+
+    .page_wallet {
+        padding: 50px 0 50px 0;
+    }
+
+    .alert_success {
+        width: 40%;
+    }
+
+    .hidden_sm {
+        display: none !important;
+    }
+
+
+    .page_career .career_content {
+        width: 100%;
+        margin: auto;
+    }
+
+    .page_contact h2,
+    .page_about h2,
+    .page_career h2,
+    .page_terms h2,
+    .page_sitemap .sitemap_content>h2 {
+        font-size: 1.5rem;
+    }
+
+    .page_contact .contact_content {
+        width: 100%;
+    }
+
+    .user-info {
+        padding: 5px;
+    }
+
+    .user-info h3 {
+        margin: auto;
+    }
+
+    .profile-sidebar-inner>ul>li {
+        display: block;
+        width: 100%;
+    }
+
+    .profile-sidebar-inner>ul>li a {
+        float: none;
+    }
+
+    .profile-sidebar-inner>ul>li a:before {
+        bottom: 0;
+    }
+
+    .review-box,
+    .tabs-wrp {
+        padding: 5px;
+    }
+
+    .sign-form input {
+        float: none;
+    }
+
+    .featured-restaurant-box.style3 .featured-restaurant-thumb {
+        margin: auto;
+        display: block;
+    }
+
+    .featured-restaurant-box .featured-restaurant-info {
+        text-align: center;
+    }
+
+    .info_restaurant h1 {
+        font-weight: bold;
+        font-size: 2rem;
+    }
+
+    .view_rating_reviews {
+        text-align: left;
+    }
+
+    .form_wallet_pay a.btn,
+    .form_wallet_pay button.btn {
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    .share_friend_add .input-group input {
+        width: 70%;
+    }
+
+
+    .reg_success .desc_reg {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 680px) {
+    .featured-restaurant-box .featured-restaurant-info {
+        width: 100%;
+    }
+
+    .page_wallet .wallet_sec_1 {
+        width: 100%;
+    }
+
+}
+
+@media (max-width:480px) {
+    .sec_services .block .step-box img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .setp-box-inner {
+        margin-top: 10px;
+    }
+
+    .setp-box-inner>h4 {
+        font-size: 14px;
+    }
+
+    .setp-box-inner>h4 {
+        font-size: 14px;
+    }
+
+    .sec_about .food-featured-post-thumb img {
+        height: 250px;
+    }
+
+    .top_restaurant .popular-dish-thumb>a img {
+        height: 230px;
+    }
+
+    .sort_by a {
+        position: relative;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+
+    .restaurant-detail-tabs>ul>li {
+        font-size: 12px;
+        width: 33.3%;
+    }
+
+    .bottom-clouds-mockup {
+        bottom: 0px;
+    }
+}
+
+@media (max-width:375px) {}
+
+@media (max-width:320px) {}

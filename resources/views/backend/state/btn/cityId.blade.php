@@ -1,0 +1,1 @@
+{!! \App\City::find($cityId)->translate(App::getLocale())->name !!}
